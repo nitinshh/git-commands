@@ -32,6 +32,9 @@
 
 --> TO REVERT THE PUSH  <--
 
+after pushing the code by mistake you can use these commands to undo the push but
+it un-does the code too in yout working directory means it removes the code from directory and cannot be restored.
+
 -> git log   (it will give you hash commits)
 -> git revert <hash-commit>
 -> git push origin master/main
