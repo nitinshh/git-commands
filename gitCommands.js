@@ -1,6 +1,10 @@
 /*------------------------GIT COMMANDS---------------------------------
 
 
+remote token add
+
+-> git remote add origin https://<username>:token@github.com/<username>/<repo name>
+
 ------------------------------------------
 
 -> git config --global user.name ""
