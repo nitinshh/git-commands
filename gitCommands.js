@@ -5,6 +5,11 @@ remote token add
 
 -> git remote add origin https://<username>:token@github.com/<username>/<repo name>
 
+
+kill all ports
+
+-> npx kill-port 3000
+
 ------------------------------------------
 
 -> git config --global user.name ""
